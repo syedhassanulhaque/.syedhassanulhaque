@@ -57,7 +57,7 @@
     /* Home Styling */
     .home{
 
-        background: url('/img/banner2.jpg')  no-repeat  center center ;
+        background: url('../img/banner2.jpg')  no-repeat  center center ;
     }
 
     .home .maxwidth{
